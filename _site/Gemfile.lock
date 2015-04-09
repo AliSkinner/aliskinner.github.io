@@ -9,6 +9,10 @@ GEM
       thread_safe (~> 0.3, >= 0.3.4)
       tzinfo (~> 1.1)
     blankslate (2.1.2.4)
+    bootstrap-material-design (0.1.7)
+      bootstrap-sass (~> 3.0)
+    bootstrap-sass (3.2.0.2)
+      sass (~> 3.2)
     celluloid (0.16.0)
       timers (~> 4.0.0)
     classifier-reborn (2.0.3)
@@ -123,4 +127,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootstrap-material-design (~> 0.1.7)
   github-pages
+  jekyll
